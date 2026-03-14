@@ -1,16 +1,17 @@
-## Hi there 👋
+WHATS UP
+Im Laderien, I build things i want to exist as accurate as possible from movies,comics, and things i like.
+Software, robotics, hardware. Whatever the project needs.
 
-<!--
-**Laderien/Laderien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im currently working on homelabbing,robotics, and things i think just look fun.
 
-Here are some ideas to get you started:
+## currently building
+→ []
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Cool things about me 
+I skateboard
+I have 2 cats
+I like comics,anime,manga, and games
+
+
+ HS senior → CS student · building toward cybersecurity
+ [email or link]
