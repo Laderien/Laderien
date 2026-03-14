@@ -14,4 +14,5 @@ I like comics,anime,manga, and games
 
 
  HS senior → CS student · building toward cybersecurity
+ 
  [email or link]
