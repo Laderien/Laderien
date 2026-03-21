@@ -1,5 +1,5 @@
 WHATS UP
-Im Laderien, I build things i want to exist as accurate as possible from movies,comics, and things i like.
+Im CR0W, I build things i want to exist as accurate as possible from movies,comics, and things i like.
 Software, robotics, hardware. Whatever the project needs.
 
 Im currently working on homelabbing,robotics, and things i think just look fun.
